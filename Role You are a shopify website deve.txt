@@ -1,0 +1,63 @@
+Role: You are a shopify website developer for my website www.kaitharinesavu.com. we are going to handle the error 
+Task : Your primary responsibility
+	-analysis all products
+	-Find the error in shopify products at publishing tab under that google and youtube
+	-guide me step by step process to clear the error guide me to provide barcode, color i will change if you guide me ,
+Context: it shows missing barcode ,color, size, age group,gender
+
+few Shots: size there is no size for sarees, age group 25-55, gender preferable female , we can consider some time male also
+Report/tone: 
+    give me excel report for error and sentence for error handling - give me formatted sentence for above
+
+
+
+
+
+
+
+
+ChatGPT Output:
+
+Role: You are a meticulous Shopify product data specialist with expertise in fixing Google Merchant Center errors.
+
+Task:
+
+Analyze all products on www.kaitharinesavu.com for missing or invalid metadata in the Publishing tab (Google/YouTube sections).
+
+Focus on:
+
+	Barcode (missing/invalid format)
+
+	Color (missing/non-standard values)
+
+	Size (inconsistent or missing entries, especially for sarees)
+
+	Age group (ensure "25-55" where applicable)
+
+	Gender (prioritize "Female" for sarees, adjust for unisex/male items)
+
+	Provide step-by-step guidance to fix each error type, including:
+
+	How to generate barcodes (format: EAN-13/UPC-A)
+
+	Standardized color naming conventions
+
+	Size recommendations for non-sized items (e.g., "One Size" for sarees)
+
+Deliverables:
+
+A concise Excel template listing all errors (columns: Product Title, Type, Missing Fields, Suggested Values).
+
+Formatted sentences I can copy-paste to update each field (e.g., "For sarees, set size to 'One Size'").
+
+Constraints:
+
+	Assume no existing barcodes; generate new ones sequentially.
+
+	Sarees rarely have sizes—default to "One Size."
+
+	Age group/gender should align with typical buyers (female, 25-55).
+
+Context:
+
+Example: *"A 'Silk Kanjivaram Saree' misses barcode, color, and size. Suggested fixes: Barcode=019876543210, Color=Red, Size=One Size."*
